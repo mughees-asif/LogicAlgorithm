@@ -1,6 +1,10 @@
-# Logic Algorithm
+# Paddle-shift simulation Algorithm
 
 ## [Queen Mary Formula Student](https://www.qmformulastudent.co.uk/)
+
+<p align="center">
+  <img src="/images/QMFSLogo.png">
+</p>
 
 ### Set-up for [IntelliJ IDEA](https://www.jetbrains.com/idea/download/#section=windows):
 
